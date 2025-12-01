@@ -359,7 +359,7 @@ body {
     font-size: 0.95rem;
     display: flex;
     justify-content: center;
-    margin-left: 41%;
+    margin-left: 38%;
 }
 
 /* Responsive */
@@ -714,4 +714,5 @@ body.dark .close-btn {
 
 body.dark .close-btn:hover {
   color: #9ca3af;
+
 }

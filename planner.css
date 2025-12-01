@@ -360,6 +360,7 @@ body {
     display: flex;
     justify-content: center;
     margin-left: 38%;
+    width: 500px;
 }
 
 /* Responsive */
@@ -716,3 +717,4 @@ body.dark .close-btn:hover {
   color: #9ca3af;
 
 }
+
